@@ -1,0 +1,20 @@
+What is the factorial of 5?
+30
+60
+120
+2
+What is an answer of 3**3?
+9
+27
+13
+1
+What food I prefer to eat?
+ice-cream
+pork meat bolls
+chips
+0
+How many shoes I have?
+Nobody know this..
+20
+15
+1
